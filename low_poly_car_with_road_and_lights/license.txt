@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Car with road and lights
+* source:	https://sketchfab.com/3d-models/low-poly-car-with-road-and-lights-7b0cc488bfcf4364a7faa1bc16ec3322
+* author:	leylamyradova2007 (https://sketchfab.com/leylamyradova2007)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Car with road and lights" (https://sketchfab.com/3d-models/low-poly-car-with-road-and-lights-7b0cc488bfcf4364a7faa1bc16ec3322) by leylamyradova2007 (https://sketchfab.com/leylamyradova2007) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
